@@ -17,12 +17,12 @@
 
   if [ "$node" = "latest" ];then
 
-node_ver=18.1.0
+node_ver=20.1.0
 
 
 elif [ -z "$node" ];then
 
-node_ver=16.15.0
+node_ver=18.16.0
 
 else
 
